@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABC", "ABC\ABC.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABCPath", "ABCPath\ABCPath.vcxproj", "{9DEB8E06-4195-487F-A0AA-08C86BF4B990}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABoardGame", "ABoardGame\ABoardGame.vcxproj", "{A5943B08-D4B5-4097-8A79-D7915AF16AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{9DEB8E06-4195-487F-A0AA-08C86BF4B990}.Debug|Win32.Build.0 = Debug|Win32
 		{9DEB8E06-4195-487F-A0AA-08C86BF4B990}.Release|Win32.ActiveCfg = Release|Win32
 		{9DEB8E06-4195-487F-A0AA-08C86BF4B990}.Release|Win32.Build.0 = Release|Win32
+		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Debug|Win32.Build.0 = Debug|Win32
+		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Release|Win32.ActiveCfg = Release|Win32
+		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
