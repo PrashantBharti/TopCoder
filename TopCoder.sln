@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABCPath", "ABCPath\ABCPath.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ABoardGame", "ABoardGame\ABoardGame.vcxproj", "{A5943B08-D4B5-4097-8A79-D7915AF16AE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANDEquation", "ANDEquation\ANDEquation.vcxproj", "{E0433647-7F32-48C1-A4F3-6A86A202F2A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASeries", "ASeries\ASeries.vcxproj", "{EE753B5A-C430-47E2-A1F6-6084C2FDDF2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +35,14 @@ Global
 		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Debug|Win32.Build.0 = Debug|Win32
 		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Release|Win32.ActiveCfg = Release|Win32
 		{A5943B08-D4B5-4097-8A79-D7915AF16AE2}.Release|Win32.Build.0 = Release|Win32
+		{E0433647-7F32-48C1-A4F3-6A86A202F2A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0433647-7F32-48C1-A4F3-6A86A202F2A7}.Debug|Win32.Build.0 = Debug|Win32
+		{E0433647-7F32-48C1-A4F3-6A86A202F2A7}.Release|Win32.ActiveCfg = Release|Win32
+		{E0433647-7F32-48C1-A4F3-6A86A202F2A7}.Release|Win32.Build.0 = Release|Win32
+		{EE753B5A-C430-47E2-A1F6-6084C2FDDF2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE753B5A-C430-47E2-A1F6-6084C2FDDF2F}.Debug|Win32.Build.0 = Debug|Win32
+		{EE753B5A-C430-47E2-A1F6-6084C2FDDF2F}.Release|Win32.ActiveCfg = Release|Win32
+		{EE753B5A-C430-47E2-A1F6-6084C2FDDF2F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
